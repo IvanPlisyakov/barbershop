@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/barbershop/static/css/main.cbc315f7.css",
-    "main.js": "/barbershop/static/js/main.74b2d86b.js",
+    "main.css": "/barbershop/static/css/main.fe5a40b7.css",
+    "main.js": "/barbershop/static/js/main.4baca84e.js",
     "static/js/787.e5c78bf7.chunk.js": "/barbershop/static/js/787.e5c78bf7.chunk.js",
     "static/media/Inter.var.woff2?v=3.15": "/barbershop/static/media/Inter.var.a738a131ff730bb906e6.woff2",
     "static/media/Inter-italic.var.woff2?v=3.15": "/barbershop/static/media/Inter-italic.var.e2e12d2e9288439ecb06.woff2",
     "static/media/Inter-roman.var.woff2?v=3.15": "/barbershop/static/media/Inter-roman.var.73d88d2ca065037a4d55.woff2",
     "static/media/main-1__1.jpg": "/barbershop/static/media/main-1__1.9f35ce78c0d8fc8ae1e9.jpg",
     "static/media/main-1__3.jpg": "/barbershop/static/media/main-1__3.33dea23fa825d9d08a51.jpg",
-    "static/media/main-1__6.jpg": "/barbershop/static/media/main-1__6.dd233ff2923c0bea98fc.jpg",
     "static/media/Inter-BoldItalic.woff?v=3.15": "/barbershop/static/media/Inter-BoldItalic.6b5fde51feaa4e40f3f1.woff",
     "static/media/Inter-SemiBoldItalic.woff?v=3.15": "/barbershop/static/media/Inter-SemiBoldItalic.349f63a50b4a84257ec5.woff",
     "static/media/Inter-MediumItalic.woff?v=3.15": "/barbershop/static/media/Inter-MediumItalic.77fc6c7d62496a309e7e.woff",
@@ -46,15 +45,16 @@
     "static/media/Inter-Thin.woff2?v=3.15": "/barbershop/static/media/Inter-Thin.5b7f1750a98f2f8516bb.woff2",
     "static/media/Inter-Regular.woff2?v=3.15": "/barbershop/static/media/Inter-Regular.26a30a5f1103393aac70.woff2",
     "static/media/about_5.jpg": "/barbershop/static/media/about_5.cafaee9b4b7a804e455a.jpg",
+    "static/media/about_3.jpg": "/barbershop/static/media/about_3.c7227abd8cf2477c4667.jpg",
     "static/media/about_4.jpg": "/barbershop/static/media/about_4.2bf2b66b99fdcb45d2e2.jpg",
-    "static/media/about_6.jpg": "/barbershop/static/media/about_6.e6b4e11d96ba8d1acfe0.jpg",
-    "static/media/about_3.jpg": "/barbershop/static/media/about_3.e17904f93b7fc31506a3.jpg",
-    "static/media/main-1__4.jpg": "/barbershop/static/media/main-1__4.227e1686a36afeaad417.jpg",
     "static/media/about_1.jpg": "/barbershop/static/media/about_1.77fdda1bd4891d9ccbd2.jpg",
-    "static/media/main-1__2.jpg": "/barbershop/static/media/main-1__2.23b1ac001236783bad50.jpg",
-    "static/media/about_2.jpg": "/barbershop/static/media/about_2.0ed79e32ff4233aa55e1.jpg",
     "static/media/main-1__5.jpg": "/barbershop/static/media/main-1__5.855a6fe746ede72e1a64.jpg",
+    "static/media/about_2.jpg": "/barbershop/static/media/about_2.924bd69105dcf549c2c2.jpg",
+    "static/media/main-1__2.jpg": "/barbershop/static/media/main-1__2.5cf1d6c32a1e6274b830.jpg",
+    "static/media/about_6.jpg": "/barbershop/static/media/about_6.dc320fd8d13824e49c41.jpg",
     "static/media/ellipse.png": "/barbershop/static/media/ellipse.0a4dceb905afee1d79f7.png",
+    "static/media/main-1__4.jpg": "/barbershop/static/media/main-1__4.339e4f81eb4ca6113cba.jpg",
+    "static/media/main-1__6.jpg": "/barbershop/static/media/main-1__6.e774835d7efe2081f240.jpg",
     "static/media/RobotoMono-Light.woff": "/barbershop/static/media/RobotoMono-Light.5bfbc34203f0fdf6ee97.woff",
     "static/media/RobotoMono-Thin.woff": "/barbershop/static/media/RobotoMono-Thin.b1181a669c48e4e0d7ee.woff",
     "static/media/MarckScript-Regular.woff": "/barbershop/static/media/MarckScript-Regular.c2016b30008679131ff2.woff",
@@ -64,12 +64,12 @@
     "index.html": "/barbershop/index.html",
     "static/media/search-form__reset.svg": "/barbershop/static/media/search-form__reset.0278d110d529d40e9ceedae575185022.svg",
     "static/media/nav-tab__aside-bar-reset.svg": "/barbershop/static/media/nav-tab__aside-bar-reset.7df345bbc60ac530258d7353d834d5bd.svg",
-    "main.cbc315f7.css.map": "/barbershop/static/css/main.cbc315f7.css.map",
-    "main.74b2d86b.js.map": "/barbershop/static/js/main.74b2d86b.js.map",
+    "main.fe5a40b7.css.map": "/barbershop/static/css/main.fe5a40b7.css.map",
+    "main.4baca84e.js.map": "/barbershop/static/js/main.4baca84e.js.map",
     "787.e5c78bf7.chunk.js.map": "/barbershop/static/js/787.e5c78bf7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbc315f7.css",
-    "static/js/main.74b2d86b.js"
+    "static/css/main.fe5a40b7.css",
+    "static/js/main.4baca84e.js"
   ]
 }
